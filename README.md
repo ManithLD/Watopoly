@@ -11,7 +11,7 @@ To enhance player experience, Watopoly utilized the Observer Pattern for SLC (St
 
 Watopoly's success lies in its seamless integration of game mechanics, creative theme, and adherence to rigorous Object-Oriented design, offering a dynamic and engaging virtual board game experience for players.
 
-\n
+
 Sample image of the view controller:
 
 # <img src="view.png"> 
